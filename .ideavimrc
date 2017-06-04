@@ -1,0 +1,2 @@
+:map \f :action ReformatCode<CR>
+:map \v :action $Paste<CR>
