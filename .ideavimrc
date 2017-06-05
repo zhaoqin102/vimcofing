@@ -1,2 +1,6 @@
+:map \c :action $Copy<CR>
 :map \f :action ReformatCode<CR>
 :map \v :action $Paste<CR>
+:map \t :action TypeHierarchy<CR>
+:map \r :action RenameElement<CR>
+:map \s :action FileStructurePopup<CR>
